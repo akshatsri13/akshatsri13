@@ -83,9 +83,5 @@
 
 ---
 
-### 📈 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshatsri13&show_icons=true&theme=tokyonight" alt="Akshat's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsri13&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
