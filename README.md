@@ -11,7 +11,7 @@
 ### 🛠 About Me
 
 - 🔭 **Currently Working On:**  
-  [SyncSpeak - A real time Chat application.]
+  [ChatVerse - A real time Chat application.]
 
 - 🌱 **Learning:**  
   DSA, Python
