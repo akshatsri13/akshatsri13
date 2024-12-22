@@ -11,7 +11,7 @@
 ### 🛠 About Me
 
 - 🔭 **Currently Working On:**  
-  [Job Portal]
+  [SyncSpeak - A real time Chat application.]
 
 - 🌱 **Learning:**  
   DSA, Python
